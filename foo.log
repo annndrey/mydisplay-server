@@ -1,0 +1,70 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [26/Jun/2018 15:58:40] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [26/Jun/2018 15:58:40] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [26/Jun/2018 15:58:47] "GET /apidocs HTTP/1.1" 301 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /apidocs/ HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/css/typography.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/css/reset.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/css/screen.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/lib/object-assign-pollyfill.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/lib/jquery-1.8.0.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/lib/jquery.slideto.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/lib/jquery.wiggle.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:48] "GET /flasgger_static/lib/jquery.ba-bbq.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/lib/handlebars-4.0.5.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/lib/lodash.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/lib/backbone-min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/swagger-ui.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:49] "GET /flasgger_static/lib/highlight.9.1.0.pack.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:52] "GET /flasgger_static/lib/jsoneditor.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:52] "GET /flasgger_static/lib/marked.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:52] "GET /flasgger_static/lib/swagger-oauth.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:54] "GET /flasgger_static/images/logo_small.png HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:55] "GET /apispec_1.json HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:55] "GET /flasgger_static/css/print.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:56] "GET /flasgger_static/images/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:58:56] "GET /flasgger_static/images/favicon-16x16.png HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:59:01] "GET /flasgger_static/images/throbber.gif HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2018 15:59:03] "GET /api/contacts HTTP/1.1" 401 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [27/Jun/2018 16:51:44] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jun/2018 16:51:50] "GET /apidocs HTTP/1.0" 301 -
+127.0.0.1 - - [27/Jun/2018 16:51:50] "GET /apidocs/ HTTP/1.0" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /apidocs HTTP/1.1" 301 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /apidocs/ HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /flasgger_static/css/typography.css HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /flasgger_static/css/reset.css HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /flasgger_static/css/screen.css HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /flasgger_static/lib/object-assign-pollyfill.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:43] "GET /flasgger_static/lib/jquery-1.8.0.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/jquery.slideto.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/jquery.wiggle.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/jquery.ba-bbq.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/handlebars-4.0.5.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/lodash.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/lib/backbone-min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:44] "GET /flasgger_static/swagger-ui.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:45] "GET /flasgger_static/lib/highlight.9.1.0.pack.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:45] "GET /flasgger_static/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:46] "GET /flasgger_static/lib/jsoneditor.min.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:46] "GET /flasgger_static/lib/marked.js HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:46] "GET /flasgger_static/lib/swagger-oauth.js HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+95.85.23.242 - - [02/Jul/2018 14:31:49] "GET /apispec_1.json HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:49] "GET /flasgger_static/css/print.css HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:50] "GET /flasgger_static/images/favicon-32x32.png HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:31:51] "GET /flasgger_static/images/favicon-16x16.png HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+95.85.23.242 - - [02/Jul/2018 14:32:40] "GET /apidocs/ HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:32:40] "GET /flasgger_static/images/logo_small.png HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:32:40] "GET /apispec_1.json HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:32:40] "GET /flasgger_static/images/favicon-32x32.png HTTP/1.1" 200 -
+95.85.23.242 - - [02/Jul/2018 14:33:02] "GET /flasgger_static/images/throbber.gif HTTP/1.1" 200 -
+Unhandled Exception: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'dbserver' ([Errno -2] Name or service not known)") (Background on this error at: http://sqlalche.me/e/e3q8) 
+95.85.23.242 - - [02/Jul/2018 14:33:12] "POST /api/contacts/search HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)

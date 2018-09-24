@@ -1,0 +1,17 @@
+marshmallow_enum==1.4.1
+Flask_HTTPAuth==3.2.3
+Flask_Restless==0.17.0
+alembic==0.9.9
+Flask_RESTful==0.3.6
+SQLAlchemy==1.2.6
+marshmallow==2.15.0
+passlib==1.7.1
+Flask_Migrate==2.1.1
+flask_marshmallow==0.8.0
+Werkzeug==0.14.1
+Flask==0.12.2
+Flask_SQLAlchemy==2.3.2
+flasgger==0.8.3
+itsdangerous==0.24
+marshmallow-sqlalchemy==0.14.0
+pymysql==0.8.1
